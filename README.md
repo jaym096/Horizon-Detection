@@ -17,12 +17,12 @@ One of the main design decisions we had to make was to decide the transition pro
 ### The example outputs:
 #### Using Bayes Net:
 
-![Image added](/Horizon-Detection/output_simple.jpg)
+![Image added](output_simple.jpg)
 
 #### Using Viterbi:
 
-![Image added](/Horizon-Detection/output_map.jpg)
+![Image added](output_map.jpg)
 
 #### Adding Human Feedback of (row=48, col=142) to Viterbi:
 
-![Image added](/Horizon-Detection/output_human.jpg)
+![Image added](output_human.jpg)
