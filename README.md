@@ -1,4 +1,4 @@
-## **PART 2: Horizon Finding**
+## **Horizon Finding**
 
 A classic problem in computer vision is to identify where on Earth a photo was taken using visual features alone (e.g., not using GPS). One way of trying to geolocate such photos is by extracting the horizon (the boundary between the sky and the mountains) and using this as a fingerprint that can be matched with a digital elevation map to identify where the photo was taken.
 
